@@ -1,0 +1,433 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="The_Open_Source_Way-Introduction">
+  <title>Introduction</title>
+  <para>
+    This book provides an introduction to creating and nurturing
+    communities of contributors.  This is a core part of Red Hat's
+    mission, as manifested in the many communities where Red Hat is an
+    active contributor.
+  </para>
+  <para>
+    Red Hat employs contributors who work directly in upstream
+    development on all parts of the open source architecture stack,
+    from the Linux kernel to the thinnest skin of Ajax4Jsf.  How these
+    people interact with their communities is the first part of how
+    Red Hat influences the growth of community.
+  </para>
+  <para>
+    The qualities of the interaction of each individual contributor
+    are as different as any human-to-human interaction.  Over the
+    course of time, these many interactions distill to a set of
+    guiding principles that help us with the community growth and
+    nurturing.
+  </para>
+  <para>
+    Red Hat has collective community wisdom.
+  </para>
+  <para>
+    We also have particular skill and luck in being thought and action
+    leaders in many open communities.  It has all been done in an
+    open, ad hoc fashion, and it hasn't been written down before.
+  </para>
+  <para>
+    So this book is a capturing of that distilled knowledge.  It is
+    also an active document, as that knowledge grows and changes, so
+    do the contents of this book.
+  </para>
+  <para>
+    This book is small and written on a wiki to facilitate
+    collaboration and growth.  If you have ideas to improve the
+    <citetitle>The Open Source Way</citetitle>, you are encouraged to
+    just start writing it down.  Use a page's "discussion" tab to
+    access the talk page.
+  </para>
+  <section id="The_Open_Source_Way-Introduction-What_this_book_is">
+    <title>What this book is</title>
+    <orderedlist>
+      <listitem><para>A book that:</para>
+      <orderedlist>
+	<listitem><para>... describes a principle</para></listitem>
+	<listitem><para>... explains how to implement
+	it</para></listitem>
+	<listitem><para>... and gives real world examples.</para></listitem>
+      </orderedlist>
+      </listitem>
+      <listitem><para>A thin reference guide to richer, thicker
+      works that explain Big Principles in Lots of Fancy
+      Words.</para></listitem>
+      <listitem><para>An open how-to manual, initially authored
+      by the Red Hat
+      <ulink url="http://fedoraproject.org/wiki/Community_Architecture">
+      Community Architecture</ulink> team.</para></listitem>
+      <listitem><para>Useful for much more than just code --
+      art/design, documentation, marketing, translation, IT, and
+      so on</para></listitem>
+    </orderedlist>
+  </section>
+  <section id="The_Open_Source_Way-Introduction-What_it_is_not">
+    <title>What it is not</title>
+    <orderedlist>
+      <listitem><para>Comprehensive for the sake of inclusion.</para>
+      <itemizedlist>
+	<listitem><para>We are focused on slim and useful.</para></listitem>
+      </itemizedlist>
+      </listitem>
+      <listitem><para>Overly repetitive of content already said and
+      available elsewhere as free and open.</para>
+      <itemizedlist>
+	<listitem><para>Build on the work of others via the power of
+	reference.</para></listitem>
+      </itemizedlist>
+      </listitem>
+      <listitem><para>Boring.</para></listitem>
+    </orderedlist>
+  </section>
+  <section id="The_Open_Source_Way-Introduction-What_it_is_influenced_by">
+    <title>What it is influenced by</title>
+    <para>
+      There are some very comprehensive, thorough, and useful works, such as:
+    </para>
+    <itemizedlist>
+      <listitem><para><citetitle><ulink
+      url="http://producingoss.com/en/index.html">Producing Open
+      Source Software</ulink></citetitle></para></listitem>
+      <listitem><para><citetitle><ulink
+      url="http://www.ewenger.com/pub/pubcultivatingbook.htm">
+      Cultivating Communities of Practice</ulink></citetitle>.</para></listitem>
+    </itemizedlist>
+    <para>
+      More influencers and good reads are found in <xref
+      linkend="The_Open_Source_Way-Books_you_should_read"/> and <xref
+      linkend="The_Open_Source_Way-Data_and_references"/>.
+    </para>
+  </section>
+  <section id="The_Open_Source_Way-Introduction-Essential_terminology_or_Read_this_even_if_you_think_you_know_what_it_means">
+    <title>Essential terminology or 'Read this even if you think you
+    know what it means'</title>
+    <note>
+      <title>This section is growing ...</title>
+      <para>
+	This section is growing for a while as
+	the <citetitle>The Open Source Way</citetitle> is written and
+	terms need defining.
+      </para>
+    </note>
+    <section id="The_Open_Source_Way-Introduction-Community">
+      <title>Community</title>
+      <para>
+	When people talk about community, they may be talking
+	about very different things:
+      </para>
+      <itemizedlist>
+	<listitem><para>People who <emphasis
+	role="italics">use</emphasis> something</para></listitem>
+	<listitem><para>People who <emphasis
+	role="italics">like</emphasis> something</para></listitem>
+	<listitem><para>People who <emphasis
+	role="italics">advocate</emphasis> for a
+	technology</para></listitem>
+	<listitem><para>People who <emphasis role="italics">enable
+	others</emphasis> to use something</para></listitem>
+	<listitem><para>People who <emphasis role="italics">contribute
+	to improve</emphasis> something</para></listitem>
+	<listitem><para>... and so on.</para></listitem>
+      </itemizedlist>
+      <para>
+	When we talk about community in the <citetitle>The Open Source
+	Way</citetitle>, we mean the community of contributors who are
+	a superset to all other communities.  The ones who, by getting
+	things done, make it possible for many, many more to get much,
+	much more done.
+      </para>
+      <para>
+	This is the group of people who form intentionally and
+	spontaneously around something important to them.  It includes
+	the people who use or benefit from the project, those who
+	participate and share the project to wider audiences, and the
+	contributors who are essential to growth and survival.
+      </para>
+      <para>
+	Contributors are the oxygen.  Without it, the animal chokes
+	and dies.
+      </para>
+      <important>
+	<title>The community that contributes to improve something
+	...</title>
+	<para>
+	  The community that contributes to improve something is
+	  the one that defines the technology and the next generation
+	  of users, advocates, and enablers.
+	</para>
+      </important>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Tactics">
+      <title>Tactics</title>
+      <para>
+	This is derived from military terminology.  The common example
+	is a group of soldiers who work with a squad leader to take
+	and secure a hill.
+      </para>
+      <para>
+	<firstterm>Tactics</firstterm> are the ideas, plans, methods,
+	and means used to accomplish a goal.  That is, tactics are the
+	maneuvers used to achieve an objective that is set by
+	strategy.
+      </para>
+      <para>
+	In Fedora, the strict yet clever <ulink
+	url="http://fedoraproject.org/wiki/Packaging">packaging
+	guidelines</ulink> are a strong-arm tactic that enforces the
+	Fedora strategy of good packaging of only free and open source
+	software.
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Strategy">
+      <title>Strategy</title>
+      <para>
+	<firstterm>Strategy</firstterm> focuses on everything from
+	which hill to secure, to deciding which miltary campaigns to
+	engage in.
+      </para>
+      <para>
+	A term from military science, strategy is the focus of the
+	command group.  Strategy focuses on setting goals and which
+	groups can obtain the goals.
+      </para>
+      <para>
+	Once the "who, what, where, when, and why" is decided, tactics
+	takes over as the "how".
+      </para>
+      <para>
+	The Fedora strategy of creating and supporting only FLOSS is
+	derived from the culture of the community combined with a
+	pragmatic view of the legal and business landscape.
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Planets_and_blogs">
+      <title>Planets and blogs</title>
+      <para>
+	A <ulink url="http://en.wikipedia.org/wiki/Blog">blog</ulink>
+	is a mix of personal and project writing that comes from a
+	participant or contributor.
+      </para>
+      <para>
+	The idea of a <firstterm>blog planet</firstterm> is to show
+	the width and depth of personalities in a community, and what
+	they are doing.
+      </para>
+      <para>
+	It intentionally allows for personal expression.  In other
+	words, the content is not all community specific.  It is
+	sometimes wildly off topic.
+      </para>
+      <para>
+	The <ulink url="http://planet.fedoraproject.org">Fedora
+	Planet</ulink> is a good example, with blogs aggregated from
+	willing contributors.  People add themselves to the planet,
+	and it is a mix of languages, topics, skill levels, and
+	project interest.  All aspects of the Fedora Project are
+	covered there on a daily basis, with a wide variety of
+	contributors from Packaging, Art and Design, Marketing,
+	upstream development, and so on.
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Leaderless_organizations">
+      <title>Leaderless organizations</title>
+      <para>
+	A leaderless organization is
+	<firstterm>decentralized</firstterm>, meaning it does not rely
+	upon a central authority for leadership, strategy, or tactics.
+	Being decentralized makes it easier to heal, faster to respond
+	and innovate, and more able to grow in scale.
+      </para>
+      <para>
+	An example of a large leaderless organization is the Internet.
+	Not just the set of agreements that makes the structure work,
+	but all the way down to the wire protocols that route around
+	damage in the network, such as when a backhoe slices through a
+	fiber link between two ISPs.
+      </para>
+      <para>
+	In projects, <ulink
+	url="http://wikipedia.org">Wikipedia</ulink> is a
+	decentralized organization, while the
+	<ulink url="http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica">
+	  Encyclopaedia Brittanica</ulink> is a classic centralized
+	  organization.
+      </para>
+      <para>
+	The idea of the leaderless organization is put forth in the
+	book <ulink url="http://www.starfishandspider.com/">The
+	Starfish and The Spider</ulink>.
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Version_control">
+      <title>Version control</title>
+      <para>
+	Version control is the comfortable insurance that means you
+	can sleep soundly at night.
+      </para>
+      <para>
+	A <firstterm>version control system (VCS)</firstterm> keeps
+	track of the differences in versions of content.  Properly
+	implemented, it is nearly disaster proof.
+      </para>
+      <para>
+	When a document is saved in to a VCS, the difference between
+	the current saved copy and the one just before it is stored.
+	The same occurred at all previous saves.  This makes it
+	possible to restore a document to any point in its save
+	history.  It is also possible to return to a previous save
+	point and start a new pathway of saves from there.  In code
+	this is called <firstterm>branching</firstterm>, with the
+	original code in the central <firstterm>trunk</firstterm>.
+      </para>
+      <para>
+	When you work with a web-based tool to write, edit, and
+	display a document, you are using version control.  All
+	content management systems and wikis use a form of version
+	control to capture and display the differences between edits.
+      </para>
+      <para>
+	Version control provides noisy reporting.  Anyone who is
+	interested or able may watch the stream of changes, or derive
+	reports from them.  Watching and commenting on version saves
+	as they occur is a hallmark of the open source methodology.
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Content_v._code_repositories">
+      <title>Content v. code repositories</title>
+      <para>
+	Code is a specialized form of content.  There are many
+	similarities between repositories of code and content.  The
+	major difference is in the tools.
+      </para>
+      <para>
+	Code repository tools focus on centralized or decentralized
+	development of the code.  The ability to return to a point in
+	time and branch from there is essential.
+      </para>
+      <para>
+	Content repository tools also include the ability to return to
+	previous points in a documents save history.  They also
+	include management tools, such as team automation in
+	MediaWiki, and workflow, publishing, and lifecycle components
+	in a content management system (CMS).
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Open_collaboration_tools">
+      <title>Open collaboration tools</title>
+      <para>
+	These are examples of open collaboration tools used in the
+	open source communities.  The same or similar tools apply to
+	any online community of practice.
+      </para>
+      <itemizedlist>
+	<listitem><para>What is a wiki?</para></listitem>
+	<listitem><para>What is a mailing list?</para></listitem>
+	<listitem><para>What is IRC?</para></listitem>
+      </itemizedlist>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Open_marketing">
+      <title>Open marketing</title>
+      <para>
+	This is marketing done entirely in the open, no secret
+	discussions on brand tactics behind the Wizard's curtain.  You
+	talk about your strengths, weaknesses, brand position, and so
+	forth as an ongoing open discussion.
+      </para>
+      <para>
+	Central to this are social media tools.  Some are used for
+	discussions, some are for information dispersal, but any
+	vector is a potential for learning and spreading the word.
+      </para>
+      <itemizedlist>
+	<listitem><para>Blogging planet or otherwise aggregated feed
+	of all contributors</para></listitem>
+	<listitem><para>Publicly displayed and discussed content and
+	code committing</para></listitem>
+	<listitem><para>Always being watched</para>
+	<itemizedlist>
+	  <listitem><para>All mailing list
+	  traffic</para></listitem>
+	  <listitem><para>All IRC logs</para></listitem>
+	  <listitem><para>All voice sessions logged and available</para></listitem>
+	  <listitem><para>100% totally accountable
+	  discussions</para></listitem>
+	  <listitem><para>Radically transparent</para></listitem>
+	</itemizedlist>
+	</listitem>
+      </itemizedlist>
+      <section id="The_Open_Source_Way-Introduction-Fundamental_rule_-_do_not_bash_competitors">
+	<title>Fundamental rule - do not bash competitors</title>
+	<para>
+	  In fact, ignore them when talking about your project.  Why
+	  waste the attention you've got on your project to point
+	  attention at something else?
+	</para>
+      </section>
+      <section id="The_Open_Source_Way-Introduction-Fundamental_rule_-_be_radically_transparent">
+	<title>Fundamental rule - be radically transparent</title>
+	<para>
+	  There is no such thing as too much information.  Everything
+	  you can legally say, you should be saying.
+	</para>
+	<para>
+	  Don't use this as an excuse to be verbose or disorganized.
+	</para>
+      </section>
+      <section id="The_Open_Source_Way-Introduction-Fundamental_rule_-_explain_what_you_know_and_how_you_know_it">
+	<title>Fundamental rule - explain what you know and how you
+	know it</title>
+	<para>
+	  In the general category of being honest, spend some time
+	  with revealing sources and means. Bad numbers are everywhere
+	  in software and communities.  Make sure your numbers are
+	  real and provable.
+	</para>
+	<para>
+	  This also falls in the general methodology of thinking
+	  like a scientist.
+	</para>
+      </section>
+    </section>
+    <section id="The_Open_Source_Way-Introduction-Science">
+      <title>Science</title>
+      <para>
+	We may all be social artists in our communities, but in the end, our understanding of this is all driven by science.
+      </para>
+      <para>
+	There is an active feedback loop happening right now:
+      </para>
+      <orderedlist>
+	<listitem><para>Scientific method wildly successful and
+	bringing forth new, life altering ideas and innovations
+	...</para></listitem>
+	<listitem><para>Scientific method is a direct parent of the
+	open source methodology ...</para></listitem>
+	<listitem><para>Open source way practiced in business/private
+	sector ...</para></listitem>
+	<listitem><para>Influences academia ...</para></listitem>
+	<listitem><para>Influences public/government
+	...</para></listitem>
+	<listitem><para>Funds science and supports innovation
+	...</para></listitem>
+	<listitem><para>Iterating through more ideas for the Great
+	Ones ...</para></listitem>
+	<listitem><para>(Back to top)</para></listitem>
+      </orderedlist>
+      <para>
+	The open source way is breaking through to help make new ideas
+	happen ... in organizations that brought us the ideas of free
+	government and free, public education ... ideas that were
+	revolutionary and evolutionary in the 19th century ... that
+	fueled a century of innovation ... and are now getting
+	refueled by new ways of openly collaborating on
+	infrastructures of freedom.
+      </para>
+    </section>
+  </section>
+</chapter>
