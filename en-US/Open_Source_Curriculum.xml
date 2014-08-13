@@ -6,7 +6,13 @@
 <book>
 	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="Preface.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	<xi:include href="Chapter.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="Fundamentals.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="Communities.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />	
+	<xi:include href="Legal.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />	
+	<xi:include href="Principles.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="Practice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />	
+	<xi:include href="Timing.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />	
+	<xi:include href="History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />	
 	<xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<index />
 </book>
