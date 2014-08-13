@@ -5,14 +5,16 @@
 ]>
 <bookinfo id="book-Documentation-Open_Source_Curriculum-Open_Source_Curriculum">
 	<title>Open Source Curriculum</title>
-	<subtitle>Enter a short description here.</subtitle>
+	<subtitle>Covering Open Source for Undergrads</subtitle>
 	<productname>Documentation</productname>
 	<productnumber>1.0</productnumber>
-	<edition>0</edition>
+	<edition>1</edition>
 	<pubsnumber>0</pubsnumber>
 	<abstract>
 		<para>
-			A short overview and summary of the book's subject and purpose, traditionally no more than one paragraph long. Note: the abstract will appear in the front matter of your book and will also be placed in the description field of the book's RPM spec file.
+			This course will offer readers an overview of open
+			source, its mindset, principles, practices, and
+			effects.
 		</para>
 	</abstract>
 	<corpauthor>
