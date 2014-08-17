@@ -1,0 +1,13 @@
+== Introduction
+
+Welcome to the open source book!
+
+=== What Open Source Is
+
+=== Why Open Source is Important
+
+=== Why this curriculum is being developed?
+
+=== How this curriculum is being developed
+
+== Open Source Fundamentals

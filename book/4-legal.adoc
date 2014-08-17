@@ -1,0 +1,11 @@
+== Understanding the Legal Bits
+
+=== What is a license?
+
+=== What does "Copyright" mean?
+
+=== What does "Copyleft" mean?
+
+=== Open Source Licenses and Types
+
+=== Choosing a License

@@ -1,0 +1,28 @@
+== Open Source Practices and Toolchains
+
+=== Revision Control
+
+=== Editing Tools
+
+=== Persistence of Data
+
+=== Connecting
+
+==== IRC
+
+==== Forums
+
+==== Mailing Lists
+
+==== Reddit
+
+==== StackExchange
+
+==== DZone
+
+==== InfoQ
+
+==== Reddit
+
+==== Websites
+

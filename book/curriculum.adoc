@@ -1,0 +1,76 @@
+= Open Source Curriculum
+
+== Introduction
+
+Welcome to the open source book!
+
+=== What Open Source Is
+
+=== Why Open Source is Important
+
+=== Why this curriculum is being developed?
+
+=== How this curriculum is being developed
+
+== Open Source Fundamentals
+
+== Communities
+
+=== What an Open Source Community is
+
+=== How an Open Source Community works
+
+=== Where Open Source Communities exist
+
+=== Who's Who in an Open Source Community
+
+== Understanding the Legal Bits
+
+=== What is a license?
+
+=== What does "Copyright" mean?
+
+=== What does "Copyleft" mean?
+
+=== Open Source Licenses and Types
+
+=== Choosing a License
+
+== Open Source Principles
+
+=== The Open Source Way
+
+== Open Source Practices and Toolchains
+
+=== Revision Control
+
+=== Editing Tools
+
+=== Persistence of Data
+
+=== Connecting
+
+==== IRC
+
+==== Forums
+
+==== Mailing Lists
+
+==== Reddit
+
+==== StackExchange
+
+==== DZone
+
+==== InfoQ
+
+==== Reddit
+
+==== Websites
+== Open Source History and Evolution
+
+== When and Why to Open Source
+
+== Open Source Culture
+
+Maybe.
