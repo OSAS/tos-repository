@@ -14,6 +14,8 @@ This book is written with open source in mind.footnote:[It'd be awfully sad if a
 
 The actual source is available via https://github.com/OSAS/os-curriculum, on https://github.com[GitHub].
 
+==== Getting the book's contents
+
 To work with the book's contents, you will need three programs installed: a text editor footnote:[Some text editors include formatting support, including support for AsciiDoc; these are probably worth searching out.] (included in every modern operating system), `git` footnote:[Git: http://git-scm.com], and `asciidoctor` footnote:[AsciiDoctor: http://asciidoctor.org]. 
 
 On Fedora footnote:[Fedora: http://fedoraproject.org], both programs can be easily installed via `yum`:
@@ -32,4 +34,18 @@ Building the book is also very simple:
 
    asciidoctor book.adoc
 
-   
+==== Contributing to the book
+
+Contributing to this book can be done in a few different ways.
+
+The first is by noting issues with the book footnote:[This is raising awareness of concerns, a core aspect of open source community, as we'll find out in later sections of the book.]; you do this by opening the book's source' website (https://github.com/OSAS/os-curriculum), and adding an issue.
+
+image::images/1-1-issues.svg[title="The issues link on GitHub"]
+
+Once an issue is filed, the book's community can address the issue by correcting or adding content. This is the simplest way to actively participate in an open source project.
+
+The other way you can contribute to the book's content is by updating the book yourself. To do this, 
+
+_TODO_ Add note about using git from command line? github?
+
+
