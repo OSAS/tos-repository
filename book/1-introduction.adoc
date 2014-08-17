@@ -10,4 +10,26 @@ Welcome to the open source book!
 
 === How this curriculum is being developed
 
-== Open Source Fundamentals
+This book is written with open source in mind.footnote:[It'd be awfully sad if a book about open source were not itself open source. Therefore - and surprise! - it's open source.] It's formatted with http://asciidoctor.org[AsciiDoctor], a variant of http://asciidoc.org[AsciiDoc]; this formats simple, plain text into various presentation formats.
+
+The actual source is available via https://github.com/OSAS/os-curriculum, on https://github.com[GitHub].
+
+To work with the book's contents, you will need three programs installed: a text editor footnote:[Some text editors include formatting support, including support for AsciiDoc; these are probably worth searching out.] (included in every modern operating system), `git` footnote:[Git: http://git-scm.com], and `asciidoctor` footnote:[AsciiDoctor: http://asciidoctor.org]. 
+
+On Fedora footnote:[Fedora: http://fedoraproject.org], both programs can be easily installed via `yum`:
+
+   sudo yum install git rubygem-asciidoctor
+
+Other operating systems will have other means by which these can be installed; check their respective websites for more details.
+
+Once you have `git` and `asciidoctor` installed, you can check the book's contents out with a simple console command:
+
+   git clone https://github.com/OSAS/os-curriculum.git
+
+This will create a directory (`os-curriculum`) in the current working directory. The book itself is made of text files with the extension `.adoc` (for "asciidoctor").
+
+Building the book is also very simple:
+
+   asciidoctor book.adoc
+
+   

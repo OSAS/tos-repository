@@ -1,0 +1,12 @@
+= Open Source: A Curriculum
+
+:toc:
+
+include::preface.adoc[]
+include::1-introduction.adoc[]
+include::2-fundamentals.adoc[]  
+include::3-communities.adoc[]  
+include::4-legal.adoc[]
+include::5-principles.adoc[]  
+include::6-practices.adoc[]  
+include::7-history.adoc[]
