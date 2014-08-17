@@ -1,1 +1,9 @@
+# editor backup files
 *~
+
+# encumbered image formats in which we have no interest
+*.bmp
+*.BMP
+*.gif
+*.GIF
+
