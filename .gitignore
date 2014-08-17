@@ -7,3 +7,6 @@
 *.gif
 *.GIF
 
+# AsciiDoctor's generated output, which we don't want included (yet)
+book.html
+
