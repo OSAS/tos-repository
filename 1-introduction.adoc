@@ -26,6 +26,12 @@ Consider the alternatives:
 * If you used a proprietary text format to write a book footnote:[I wonder what gave me the idea to use a proprietary document processor as an example for this book.], those who work on the document can be forced to  license current versions of the software to alter or view the work.
 * If my data is stored in a proprietary format, the owner of the format can require future usages to comply with potentially onerous requirements, meaning that my data can not be seen without encumbrance. footnote:[Retrograde license enforcement has actually happened with the GIF format; the owner of a common compression format often assumed to be part of GIF enforced its license, to the displeasure of all involved. See http://en.wikipedia.org/wiki/Graphics_Interchange_Format#Unisys_and_LZW_patent_enforcement for more details.]
 
+Open Source also encourages a sense of collaboration and community, because when an artifact footnote:[An artifact is something, anything, that's been produced. It can be as ethereal as a concept, or might be an executable program, or an algorithm, or even something solid like a lamp.] is freely available, people have a very little that prevents them from picking it up and kicking the tires, so to speak. Given that a community is formed when people have something in common footnote:[A loose, but appropriate, definition of community: https://www.theopensourceway.org/wiki/Introduction#Community], a low barrier to entry means that a community forms naturally and quickly.
+
+The the open source artifact is actually useful, and its incidental community is then governed with some intent, it's fairly easy to retain the casual users such that a sustainable, growing community appears.
+
+A growing open source community fosters *more* open source, which creates a larger and more healthy open source community, which creates a cycle of growth and cooperation.
+
 === Why Open Source is Important
 
 === Why this curriculum is being developed?
