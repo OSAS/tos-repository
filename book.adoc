@@ -10,3 +10,5 @@ include::4-legal.adoc[]
 include::5-principles.adoc[]  
 include::6-practices.adoc[]  
 include::7-history.adoc[]
+
+FIXME needs to be redone
