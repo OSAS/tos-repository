@@ -1,0 +1,3 @@
+== Preface
+
+It is essential for students to understand this particular topic in order to gain a broader perspective on the importance of software development, and collaborative skills in software projects. Open source should serve as a basis for the student to approach software development with a purpose of improving or benefitting common future goals.
