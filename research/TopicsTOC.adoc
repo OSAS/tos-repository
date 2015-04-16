@@ -3,8 +3,8 @@ A task for oss-curriculum is to create a skeletal topics structure. How do we ch
 
 Below are many subject layouts (TOCs) from various education sources. We will compare and share from these to create our initial structure.
 
- * https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Software_Exploration/html-single/[Posse textbook toc]
- * http://foss2serve.org/index.php/Stage_1_Activities[Posse class stage 1]
+ * [Posse textbook toc]https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Software_Exploration/html-single/
+ * [Posse class stage 1]http://foss2serve.org/index.php/Stage_1_Activities
  * POSSE class stage 2? http://foss2serve.org/index.php/Stage_2_Activities
  * Joe original os-curriculum https://mojo.redhat.com/docs/DOC-970099
  * Some textbooks like Producing OSS http://producingoss.com/en/index.html
