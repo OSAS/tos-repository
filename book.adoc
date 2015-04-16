@@ -2,6 +2,7 @@
 
 :toc:
 
+include::01-introduction/1-legal.asc[]
 include::preface.adoc[]
 
 ///////////////////////////////
