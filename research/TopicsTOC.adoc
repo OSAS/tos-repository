@@ -26,8 +26,9 @@ Below are many subject layouts (TOCs) from various education sources. We will co
 === Joe Original os-curriculum
 Get students into the work ASAP.
 
-
-
+[start=0]
+ . Introduction / Foreward
+     * Why important, why teach this, why open?
  . OSS Fundamentals
      * disambiguate principles vs legal vs practice
  . Communities
