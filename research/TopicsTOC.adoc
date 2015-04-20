@@ -15,3 +15,24 @@ Below are many subject layouts (TOCs) from various education sources. We will co
  * Kitware class - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2009/Course_notes#Lecture_1_-_Introduction_.28Will_Schroeder.29
  * Any other classes??
 
+== Layouts
+
+=== POSSE Textbook
+
+=== POSSE Class Stage 1
+
+=== POSSE Class Stage 2
+
+=== Joe Original os-curriculum
+Get students into the work ASAP.
+ . Introduction / Foreward
+ ** Why important, why teach this, why open?
+ . OSS Fundamentals
+ ** disambiguate principles vs legal vs practice
+ . Communities
+ ** What?, governance, find a community, roles,
+ . Legal Bits
+ ** licenses, copyright, copyleft
+ . OSS History
+ ** How, drivers, people, business involvement
+
