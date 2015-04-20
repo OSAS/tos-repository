@@ -27,7 +27,8 @@ Below are many subject layouts (TOCs) from various education sources. We will co
 Get students into the work ASAP.
 
  * Introduction / Foreward
- ** Why important, why teach this, why open?
+     ** Why important, why teach this, why open?
+
  . OSS Fundamentals
      * disambiguate principles vs legal vs practice
  . Communities
