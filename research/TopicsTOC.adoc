@@ -22,7 +22,26 @@ Below are many subject layouts (TOCs) from various education sources. We will co
 
 === POSSE Class Stage 1
 
- . Part A
+[upperalpha]
+ . OSS Fundamentals + Initial Hands-On
+     * Intro - History, Culture, Methodology, Importance to Students, HFOSS
+     * Join TOS - Maillist and wiki exercize
+     * Wikis - About and exercize
+     * IRC - What, History, etiquette, exercize
+     * IRC Meeting - Hands on IRC, HFOSS discussion
+     * FOSS Project - OSS Terminology, Community structure, Project introduction
+ . Bringing Communities / Projects to the Classroom
+     * FOSS Field Trip - Finding and Evaluating projects
+     * Project Evaluation - Activity for above
+     * Blogging - About and Activity
+     * Course Planning I - EXAMPLES / ACTIVITIES for making your own activities
+     * IRC Meeting - Checkpoint /  Interaction
+ . OSS Development Tools + OSS in Classroom activities
+     * IRC Meeting - Checkpoint / Proj selection
+     * Bug / Defect Tracking - About and exercize
+     * Source Code Mgmt (SCM) - git / github intro and exercize
+     * Course Planning II - How to BRING to your classroom
+     * Download / Install - Prep for Project use in stage 2
 
 === POSSE Class Stage 2
 
