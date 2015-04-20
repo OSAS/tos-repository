@@ -26,8 +26,7 @@ Below are many subject layouts (TOCs) from various education sources. We will co
 === Joe Original os-curriculum
 Get students into the work ASAP.
 
- * Introduction / Foreward
-     ** Why important, why teach this, why open?
+
 
  . OSS Fundamentals
      * disambiguate principles vs legal vs practice
@@ -36,12 +35,12 @@ Get students into the work ASAP.
  . Legal Bits
      * licenses, copyright, copyleft
  . Principles (The Open Source Way)
- ** Methodology, compliment to legal(??)
+     * Methodology, compliment to legal(??)
  . Practice / Toolchain
- ** git, IDE, irc, forums, mail lists, stackoverflow, dzone, infoq
+     * git, IDE, irc, forums, mail lists, stackoverflow, dzone, infoq
  . OSS History
- ** How, drivers, people, business involvement
+     * How, drivers, people, business involvement
  . When and Why to Open Source
- ** blank
+     * blank
  . OSS Culture
- ** blank
+     * blank
