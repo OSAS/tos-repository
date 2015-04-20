@@ -11,15 +11,18 @@ Below are many subject layouts (TOCs) from various education sources. We will co
  * Art of community toc - http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf
  * Opensourceway.com book - http://www.theopensourceway.org/book/
  * Opensourceway.com #2 - http://www.theopensourceway.org/wiki/Main_Page
- * RIT Class - 
- * Kitware class - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2009/Course_notes#Lecture_1_-_Introduction_.28Will_Schroeder.29
- * Any other classes??
+ * RIT Class - http://teachingopensource.org/index.php/RIT/The_Course
+ * RPI Kitware class - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2009/Course_notes#Lecture_1_-_Introduction_.28Will_Schroeder.29
+ * RPI other - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Main_Page
+ * Seneca College OSD Class - http://zenit.senecac.on.ca/wiki/index.php/OSD600
 
 == Layouts
 
 === POSSE Textbook
 
 === POSSE Class Stage 1
+
+ . Part A
 
 === POSSE Class Stage 2
 
