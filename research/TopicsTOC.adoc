@@ -7,8 +7,8 @@ Below are many subject layouts (TOCs) from various education sources. We will co
  * Posse class stage 1 - http://foss2serve.org/index.php/Stage_1_Activities
  * POSSE class stage 2 - http://foss2serve.org/index.php/Stage_2_Activities
  * Joe original os-curriculum - https://mojo.redhat.com/docs/DOC-970099
- * Some textbooks like Producing OSS - http://producingoss.com/en/index.html
- * Art of community toc - http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf
+ * Producing OSS Book - http://producingoss.com/en/index.html
+ * Art of community Book toc - http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf
  * Opensourceway.com book - http://www.theopensourceway.org/book/
  * Opensourceway.com #2 - http://www.theopensourceway.org/wiki/Main_Page
  * RIT Class - http://teachingopensource.org/index.php/RIT/The_Course
@@ -21,6 +21,7 @@ Below are many subject layouts (TOCs) from various education sources. We will co
 === POSSE Textbook
 
 === POSSE Class Stage 1
+Theory, then Hands-On, then Discuss, REPEAT
 
 [upperalpha]
  . OSS Fundamentals + Initial Hands-On
@@ -67,3 +68,17 @@ Get students into the work ASAP.
      * blank
  . OSS Culture
      * blank
+
+=== Producing OSS Book
+How to create a new OSS Community from "scratch"
+
+ . The Rise of Proprietary and Free Software
+ . Take what software you have, and start putting "community" around it
+ . Tooling
+ . Governance
+ . Money issues
+ . Where and How to talk to others
+ . Development patterns
+ . Contributors
+ . OSS in Orgs / Enterprise
+ . Legal / Licensing
