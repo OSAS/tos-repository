@@ -1,0 +1,12 @@
+Introductions of differing types?
+     Proprietary vs Open
+     Societal benefits
+          Why? Then and Now
+          HFOSS
+          Transparent Govt, Business, etc
+     History
+     Legal backings (copyright, patent etc)
+     Hands-On (so we dont lose people with theory)
+          Programming based
+          Finding a community based (lib arts, humanities based?)
+
