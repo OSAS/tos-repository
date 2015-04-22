@@ -20,6 +20,28 @@ Below are many subject layouts (TOCs) from various education sources. We will co
 
 === POSSE Textbook
 
+[start=0]
+ . Document Conventions
+     * Meta about doc
+ . Why OSS for students and education??
+ . What and Why of OSS
+     * Why does FOSS matter to me?
+     * What is source code?
+     * Source Code: To share, or not to share?
+     * Levels of Contributors
+ . Communities - The Lay of the Land
+     * About
+     * Qualities
+     * Communication Tools
+ . Getting the Code - SCM
+     * Why Source Control Mgmt?
+     * Checkout
+     * Workflow
+     * Changing Code
+     * Merging
+     * Commiting
+ . Building the Code - 
+
 === POSSE Class Stage 1
 Theory, then Hands-On, then Discuss, REPEAT
 
