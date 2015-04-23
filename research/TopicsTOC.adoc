@@ -48,14 +48,12 @@ Below are many subject layouts (TOCs) from various education sources. We will co
      * PreReq Install
      * configure
      * make
- . Debugging the Code 
-     * 
-     * 
-     * 
-     * 
-     * 
-     * 
-     * 
+ . Debugging the Code - Defect Tracking
+     * About Defect tracking
+     * Good Bug Reporting
+     * Triage: Re-checking bugs
+     * Hands-On Exercizes (many)
+ . Fixing the Code
 
 === POSSE Class Stage 1
 Theory, then Hands-On, then Discuss, REPEAT
