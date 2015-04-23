@@ -2,7 +2,7 @@ Preface -
 READ THIS IF YOU DONT READ ANYTHING ELSE??
 	How this book works
 	Choose your own adventure
-	Conventions
+	Conventions?
 
 Introductions of differing types?
      Proprietary vs Open

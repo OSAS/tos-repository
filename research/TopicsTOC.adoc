@@ -40,7 +40,22 @@ Below are many subject layouts (TOCs) from various education sources. We will co
      * Changing Code
      * Merging
      * Commiting
- . Building the Code - 
+ . Building the Code - Compiling Code by Example
+     * Source 2 Binary
+     * Terminology
+     * General Troubleshooting
+     * AutoTools
+     * PreReq Install
+     * configure
+     * make
+ . Debugging the Code 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
 
 === POSSE Class Stage 1
 Theory, then Hands-On, then Discuss, REPEAT
