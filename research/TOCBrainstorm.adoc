@@ -12,22 +12,12 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
 
 == Sample Table of Contents
 
+[start=0]
  . Preface - 
      * READ THIS IF YOU DONT READ ANYTHING ELSE??
 	 * How this book works
 	 * Choose your own adventure
 	 * Conventions?
- . Introductions of differing types?
-     * Proprietary vs Open
-     * Societal benefits
-     ** Why? Then and Now
-     ** HFOSS
-     ** Transparent Govt, Business, etc
-     * History
-     * Legal backings (copyright, patent etc)
-     * Hands-On (so we dont lose people with theory)
-     ** Programming based
-     ** Finding a community based (lib arts, humanities based?)
  . Intro (bad name) - Convincing and Why
      * Why OSS in Education?
      * Importance to students, teachers, and professionals
@@ -36,57 +26,62 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
      * Context - different OSS meanings (Joes Ch1)
      * History
      * Copyright intro
-     * Open vs Proprietary
-     * Societal Benefits
+     * Proprietary vs Open
+     * Societal Benefits, HFOSS
      * Culture
      * Methodology (from POSSE class 1A1)
      * Communities intro
+ . Open Source in...
+     * Education
+     * Business - startups, enterprise
+     * Government
+     * Non-Profit - HFOSS
  . Legal Aspects
-    Copyright
-    Licensing
-    Copyleft and Permissive
+     * Copyright
+     * Licensing
+     * Copyleft and Permissive
  . Software
-    What is Source Code?
-    Compiling
-    Binaries
-    Building
-	make
+     * What is Source Code?
+     * Compiling
+     * Binaries
+     * Building
+	 * make
  . Open Source Way (aka Community Development)
-    (Joes Ch2)
-    Release early, release often
-    All bugs are shallow with enough eyes
-    Open source culture (opensourceway.com)(OSEP 5-qualities)
+     * (Joes Ch2)
+     * Release early, release often
+     * All bugs are shallow with enough eyes
+     * Open source culture (opensourceway.com)(OSEP 5-qualities)
  . Communities
-    About (POSSE class 1A6)
-    Governance types
-    Qualities
-    Choosing (POSSE class 1B1)
-    Communications
+     * About (POSSE class 1A6)
+     * Governance types
+     * Qualities
+     * Choosing (POSSE class 1B1)
+     * Communications
  . OSS Processes & Toolchain
-    Maillists
-    SCM (github, svn)
-    Bug / Defect tracking
-    Wiki's
-    IRC
-    Blogs
+     * Maillists
+     * SCM (github, svn)
+     * Bug / Defect tracking
+     * Wiki's
+     * IRC
+     * Blogs
  . OSS Workflow ??? Needed ???
-    Defect
-    Troubleshoot
-    Patch in branch
-    Test
-    Interact with Community
-    Change accepted upstream
+     * Defect
+     * Troubleshoot
+     * Patch in branch
+     * Test
+     * Interact with Community
+     * Change accepted upstream
  . Weaving OSS into the Classroom ??? Needed ???
-    Are all of the various activities / exercises doing this?
-    What have past teachers found?
-    Tips and tricks
-    Lessons learned
+     * Are all of the various activities / exercises doing this?
+     * What have past teachers found?
+     * Tips and tricks
+     * Lessons learned
 
 
 == TODOs
 
-Database for activities / exercizes - no doubt that these eventually need to go into a database and be referenced by other material; the need for users to interact, rate, leave comments on each activity is vital; We will want to reference the same activities in multiple sections; Users may want to sort activities by type, difficulty, etc
+ * Database for activities / exercizes - no doubt that these eventually need to go into a database and be referenced by other material; the need for users to interact, rate, leave comments on each activity is vital; We will want to reference the same activities in multiple sections; Users may want to sort activities by type, difficulty, etc
 
-Consider Jim Jagielski's Governance document (OSAS home.corp)
+ * Consider Jim Jagielski's Governance document (OSAS home.corp)
 
-Blogging - How essentual is this? Asks OSAS list...
+ * Blogging - How essentual is this? Asks OSAS list...
