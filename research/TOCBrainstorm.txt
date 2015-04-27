@@ -1,12 +1,18 @@
-Title of project - Should it even be CURRICULUM?, which refers to whole years of study mapped out. Are we necessarily mapping out a course of study? Possibly some will reference it for this, but many will not. Curriculum still seems to get across the general purpose and it is differentiable from other stuff out there.
+== Brainstorm
+This is meant as a place to start forming together a OSS Pedagogy... a listing of high level topics and subtopics for the curriculum to focus on.
 
-     oss-curriculum
-     OSS Coursework
-     Teaching open source repository
-     Teaching open source resources
+=== Title of project
+Should it even be CURRICULUM?, which refers to whole years of study mapped out. Are we necessarily mapping out a course of study? Possibly some will reference it for this, but many will not. Curriculum still seems to get across the general purpose and it is differentiable from other stuff out there.
+
+ . oss-curriculum
+ . OSS Coursework
+ . Teaching open source repository
+ . Teaching open source resources
 
 
-Preface - 
+== Sample Table of Contents
+
+ . Preface - 
     READ THIS IF YOU DONT READ ANYTHING ELSE??
 	How this book works
 	Choose your own adventure
