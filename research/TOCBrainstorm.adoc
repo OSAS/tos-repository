@@ -46,15 +46,15 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
      * Binaries
      * Building
 	 * make
- . Open Source Way (aka Community Development)
+ . The Open Source Way (aka Community Development)
      * (Joes Ch2)
-     * Release early, release often
-     * All bugs are shallow with enough eyes
+     * "Release early, release often"
+     * "All bugs are shallow with enough eyes""
      * Open source culture (opensourceway.com)(OSEP 5-qualities)
  . Communities
      * About (POSSE class 1A6)
-     * Governance types
-     * Qualities
+     * Governance types (Jim Jag, Producing OSS Ch4)
+     * Qualities (POSSE class)
      * Choosing (POSSE class 1B1)
      * Communications
  . OSS Processes & Toolchain
@@ -64,14 +64,14 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
      * Wiki's
      * IRC
      * Blogs
- . OSS Workflow ??? Needed ???
+ . OSS Workflow ???Needed???
      * Defect
      * Troubleshoot
-     * Patch in branch
-     * Test
-     * Interact with Community
+     * Fork, Branch
+     * Fix, Test, Patch
+     * Interact with Community (pull request)
      * Change accepted upstream
- . Weaving OSS into the Classroom ??? Needed ???
+ . Weaving OSS into the Classroom ???Needed???
      * Are all of the various activities / exercises doing this?
      * What have past teachers found?
      * Tips and tricks
