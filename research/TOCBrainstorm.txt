@@ -1,18 +1,80 @@
 Preface - 
-READ THIS IF YOU DONT READ ANYTHING ELSE??
+    READ THIS IF YOU DONT READ ANYTHING ELSE??
 	How this book works
 	Choose your own adventure
 	Conventions?
 
 Introductions of differing types?
-     Proprietary vs Open
-     Societal benefits
-          Why? Then and Now
-          HFOSS
-          Transparent Govt, Business, etc
-     History
-     Legal backings (copyright, patent etc)
-     Hands-On (so we dont lose people with theory)
-          Programming based
-          Finding a community based (lib arts, humanities based?)
+    Proprietary vs Open
+    Societal benefits
+        Why? Then and Now
+        HFOSS
+        Transparent Govt, Business, etc
+    History
+    Legal backings (copyright, patent etc)
+    Hands-On (so we dont lose people with theory)
+        Programming based
+        Finding a community based (lib arts, humanities based?)
+
+Intro (bad name) - Convincing and Why
+    Why OSS in Education?
+    Importance to students, teachers, and professionals
+    Why traditional student projects are ineffective (POSSE textbook 1.2)
+
+Open Source Software Fundamentals - Defining & Teaching
+    Context - different OSS meanings (Joes Ch1)
+    History
+    Copyright intro
+    Open vs Proprietary
+    Societal Benefits
+    Culture
+    Methodology (from POSSE class 1A1)
+    Communities intro
+
+Legal Aspects
+    Copyright
+    Licensing
+    Copyleft and Permissive
+	
+Software
+    What is Source Code?
+    Compiling
+    Binaries
+    Building
+	make
+
+Open Source Way (aka Community Development)
+    (Joes Ch2)
+    Release early, release often
+    All bugs are shallow with enough eyes
+    Open source culture (opensourceway.com)(OSEP 5-qualities)
+
+Communities
+    About (POSSE class 1A6)
+    Governance types
+    Qualities
+    Choosing (POSSE class 1B1)
+    Communications
+
+OSS Processes & Toolchain
+    Maillists
+    SCM (github, svn)
+    Bug / Defect tracking
+    Wiki's
+    IRC
+    Blogs
+
+OSS Workflow ??? Needed ???
+    Defect
+    Troubleshoot
+    Patch in branch
+    Test
+    Interact with Community
+    Change accepted upstream
+
+Weaving OSS into the Classroom ??? Needed ???
+    Are all of the various activities / exercises doing this?
+    What have past teachers found?
+    Tips and tricks
+    Lessons learned
 
