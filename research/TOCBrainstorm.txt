@@ -86,3 +86,11 @@ Weaving OSS into the Classroom ??? Needed ???
     Tips and tricks
     Lessons learned
 
+
+TODOs
+
+	Database for activities / exercizes - no doubt that these eventually need to go into a database and be referenced by other material; the need for users to interact, rate, leave comments on each activity is vital; We will want to reference the same activities in multiple sections; Users may want to sort activities by type, difficulty, etc
+
+	Consider Jim Jagielski's Governance document (OSAS home.corp)
+
+	Blogging - How essentual is this? Asks OSAS list...
