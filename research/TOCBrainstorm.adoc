@@ -15,8 +15,7 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
 [start=0]
  . Preface - 
      * READ THIS IF YOU DONT READ ANYTHING ELSE??
-	 * How this book works
-	 * Choose your own adventure
+	 * How this book works: CHOOSE YOUR OWN ADVENTURE
 	 * Conventions?
  . Intro (bad name) - Convincing and Why
      * Why OSS in Education?
@@ -31,11 +30,12 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
      * Culture
      * Methodology (from POSSE class 1A1)
      * Communities intro
- . Open Source in...
+ . Open Source in...  (show landscape)
      * Education
      * Business - startups, enterprise
      * Government
      * Non-Profit - HFOSS
+     * NOTE: needs constant updating since this changes over the years
  . Legal Aspects
      * Copyright
      * Licensing
