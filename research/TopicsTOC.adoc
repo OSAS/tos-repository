@@ -13,6 +13,7 @@ Below are many subject layouts (TOCs) from various education sources. We will co
  * Opensourceway.com #2 - http://www.theopensourceway.org/wiki/Main_Page
  * RIT Class - http://teachingopensource.org/index.php/RIT/The_Course
      ** RIT Class Output - https://github.com/fossrit/HowToFOSS
+ * RIT Biz & Legal FOSS Class - https://github.com/decause/bizlegfoss
  * RPI Kitware class - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2009/Course_notes#Lecture_1_-_Introduction_.28Will_Schroeder.29
  * RPI 2012 - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2012/Course_notes
  * RPI other - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Main_Page
