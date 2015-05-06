@@ -1,0 +1,87 @@
+== Brainstorm
+This is meant as a place to start forming together a OSS Pedagogy... a listing of high level topics and subtopics for the curriculum to focus on.
+
+=== Title of project
+Should it even be CURRICULUM?, which refers to whole years of study mapped out. Are we necessarily mapping out a course of study? Possibly some will reference it for this, but many will not. Curriculum still seems to get across the general purpose and it is differentiable from other stuff out there.
+
+ * oss-curriculum
+ * OSS Coursework
+ * Teaching open source repository
+ * Teaching open source resources
+
+
+== Sample Table of Contents
+
+[start=0]
+ . Preface - 
+     * READ THIS IF YOU DONT READ ANYTHING ELSE??
+	 * How this book works: CHOOSE YOUR OWN ADVENTURE
+	 * Conventions?
+ . Intro (bad name) - Convincing and Why
+     * Why OSS in Education?
+     * Importance to students, teachers, and professionals
+     * Why traditional student projects are ineffective (POSSE textbook 1.2)
+ . Open Source Software Fundamentals - Defining & Teaching
+     * Context - different OSS meanings (Joes Ch1)
+     * History
+     * Copyright intro
+     * Proprietary vs Open
+     * Societal Benefits, HFOSS
+     * Culture
+     * Methodology (from POSSE class 1A1)
+     * Communities intro
+ . Open Source in...  (show landscape)
+     * Education
+     * Business - startups, enterprise
+     * Government
+     * Non-Profit - HFOSS
+     * NOTE: needs constant updating since this changes over the years
+ . Legal Aspects
+     * Copyright
+     * Licensing
+     * Copyleft and Permissive
+ . Software
+     * What is Source Code?
+     * Compiling
+     * Binaries
+     * Building
+	 * make
+ . The Open Source Way (aka Community Development)
+     * (Joes Ch2)
+     * "Release early, release often"
+     * "All bugs are shallow with enough eyes""
+     * Open source culture (opensourceway.com)(OSEP 5-qualities)
+ . Communities
+     * About (POSSE class 1A6)
+     * Governance types (Jim Jag, Producing OSS Ch4)
+     * Qualities (POSSE class)
+     * Choosing (POSSE class 1B1)
+     * Communications
+ . OSS Processes & Toolchain
+     * Maillists
+     * SCM (github, svn)
+     * Bug / Defect tracking
+     * Wiki's
+     * IRC
+     * Blogs
+ . OSS Workflow ???Needed???
+     * Defect
+     * Troubleshoot
+     * Fork, Branch
+     * Fix, Test, Patch
+     * Interact with Community (pull request)
+     * Change accepted upstream
+ . Weaving OSS into the Classroom ???Needed???
+     * Are all of the various activities / exercises doing this?
+     * What have past teachers found?
+     * Tips and tricks
+     * Lessons learned
+
+
+== TODOs
+
+ * Database for activities / exercizes - no doubt that these eventually need to go into a database and be referenced by other material; the need for users to interact, rate, leave comments on each activity is vital; We will want to reference the same activities in multiple sections; Users may want to sort activities by type, difficulty, etc
+
+ * Consider Jim Jagielski's Governance document (OSAS home.corp)
+
+ * Blogging - How essentual is this? Asks OSAS list...

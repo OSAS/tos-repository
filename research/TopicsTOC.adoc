@@ -1,0 +1,122 @@
+== Topics Research
+A task for oss-curriculum is to create a skeletal topics structure. How do we chunk up teaching OSS?
+
+Below are many subject layouts (TOCs) from various education sources. We will compare and share from these to create our initial structure.
+
+ * Posse textbook toc - https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Software_Exploration/html-single/
+ * Posse class stage 1 - http://foss2serve.org/index.php/Stage_1_Activities
+ * POSSE class stage 2 - http://foss2serve.org/index.php/Stage_2_Activities
+ * Joe original os-curriculum - https://mojo.redhat.com/docs/DOC-970099
+ * Producing OSS Book - http://producingoss.com/en/index.html
+ * Art of community Book toc - http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf
+ * Opensourceway.com book - http://www.theopensourceway.org/book/
+ * Opensourceway.com #2 - http://www.theopensourceway.org/wiki/Main_Page
+ * RIT Class - http://teachingopensource.org/index.php/RIT/The_Course
+     ** RIT Class Output - https://github.com/fossrit/HowToFOSS
+ * RIT Biz & Legal FOSS Class - https://github.com/decause/bizlegfoss
+ * RPI Kitware class - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2009/Course_notes#Lecture_1_-_Introduction_.28Will_Schroeder.29
+ * RPI 2012 - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Fall2012/Course_notes
+ * RPI other - https://public.kitware.com/OpenSourceSoftwarePractice/index.php/Main_Page
+ * Seneca College OSD Class - http://zenit.senecac.on.ca/wiki/index.php/OSD600
+
+== Layouts
+
+=== POSSE Textbook
+
+[start=0]
+ . Document Conventions
+     * Meta about doc
+ . Why OSS for students and education??
+ . What and Why of OSS
+     * Why does FOSS matter to me?
+     * What is source code?
+     * Source Code: To share, or not to share?
+     * Levels of Contributors
+ . Communities - The Lay of the Land
+     * About
+     * Qualities
+     * Communication Tools
+ . Getting the Code - SCM
+     * Why Source Control Mgmt?
+     * Checkout
+     * Workflow
+     * Changing Code
+     * Merging
+     * Commiting
+ . Building the Code - Compiling Code by Example
+     * Source 2 Binary
+     * Terminology
+     * General Troubleshooting
+     * AutoTools
+     * PreReq Install
+     * configure
+     * make
+ . Debugging the Code - Defect Tracking
+     * About Defect tracking
+     * Good Bug Reporting
+     * Triage: Re-checking bugs
+     * Hands-On Exercizes (many)
+ . Fixing the Code
+
+=== POSSE Class Stage 1
+Theory, then Hands-On, then Discuss, REPEAT
+
+[upperalpha]
+ . OSS Fundamentals + Initial Hands-On
+     * Intro - History, Culture, Methodology, Importance to Students, HFOSS
+     * Join TOS - Maillist and wiki exercize
+     * Wikis - About and exercize
+     * IRC - What, History, etiquette, exercize
+     * IRC Meeting - Hands on IRC, HFOSS discussion
+     * FOSS Project - OSS Terminology, Community structure, Project introduction
+ . Bringing Communities / Projects to the Classroom
+     * FOSS Field Trip - Finding and Evaluating projects
+     * Project Evaluation - Activity for above
+     * Blogging - About and Activity
+     * Course Planning I - EXAMPLES / ACTIVITIES for making your own activities
+     * IRC Meeting - Checkpoint /  Interaction
+ . OSS Development Tools + OSS in Classroom activities
+     * IRC Meeting - Checkpoint / Proj selection
+     * Bug / Defect Tracking - About and exercize
+     * Source Code Mgmt (SCM) - git / github intro and exercize
+     * Course Planning II - How to BRING to your classroom
+     * Download / Install - Prep for Project use in stage 2
+
+=== POSSE Class Stage 2
+
+=== Joe Original os-curriculum
+Get students into the work ASAP.
+
+[start=0]
+ . Introduction / Foreward
+     * Why important, why teach this, why open?
+ . OSS Fundamentals
+     * disambiguate principles vs legal vs practice
+ . Communities
+     * What?, governance, find a community, roles,
+ . Legal Bits
+     * licenses, copyright, copyleft
+ . Principles (The Open Source Way)
+     * Methodology, compliment to legal(??)
+ . Practice / Toolchain
+     * git, IDE, irc, forums, mail lists, stackoverflow, dzone, infoq
+ . OSS History
+     * How, drivers, people, business involvement
+ . When and Why to Open Source
+     * blank
+ . OSS Culture
+     * blank
+
+=== Producing OSS Book
+How to create a new OSS Community from "scratch"
+
+ . The Rise of Proprietary and Free Software
+ . Take what software you have, and start putting "community" around it
+ . Tooling
+ . Governance
+ . Money issues
+ . Where and How to talk to others
+ . Development patterns
+ . Contributors
+ . OSS in Orgs / Enterprise
+ . Legal / Licensing
