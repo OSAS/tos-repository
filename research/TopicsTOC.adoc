@@ -83,6 +83,18 @@ Theory, then Hands-On, then Discuss, REPEAT
      * Download / Install - Prep for Project use in stage 2
 
 === POSSE Class Stage 2
+Group work mixed with lectures to produce real student OSS activities
+
+ . Choosing a project to interact with
+     * Introductions
+     * Etherpad
+     * Actual student participation w/ HFOSS
+         ** Evaluate quality of assignments
+     * Project-Choice Evaluation
+         ** Review critical criteria for chosen project
+         ** Secondary criteria
+     * Project intro - major sections - code, bugs, etc
+     * Git, Github, issues on github (by Stoney)
 
 === Joe Original os-curriculum
 Get students into the work ASAP.
