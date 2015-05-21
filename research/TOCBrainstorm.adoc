@@ -18,7 +18,7 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
 	 * Choose your own Adventure
 	 * Conventions Used
 	 * Audience intended
- . Convincing and Why
+ . Why teach OSS?
      * Why OSS in Education?
      * Why OSS in Business?
      * Importance to students, teachers, and professionals
@@ -51,19 +51,19 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
      * Copyleft and Permissive
      * Why you always want a license
      * License chooser
- . Software
+ . Source Code and Compilation
      * What is Source Code?
+     * What are Binaries?
      * Compiled vs Interpreted
-     * Binaries
-     * Building
-	 * make
- . Building the Code
-     * Compiling code by example
-     * Non-compiled languages
-     * Source 2 Binary
-     * AutoTools
-     * 'make' process
-     * java build process
+     * Compiled languages
+         ** C, C++, Go
+         ** 'make' process
+         ** AutoTools
+     * Interpreted languages
+         ** Javascript, Node.js, Python, Ruby
+     * Byte-code languages
+         ** Java, Python, Ruby
+         ** bytecode
  . The Open Source Way (aka Community Development)
      * (Joes Ch2)
      * "Release early, release often"
