@@ -14,38 +14,56 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
 
 [start=0]
  . Preface - 
-     * READ THIS IF YOU DONT READ ANYTHING ELSE??
-	 * How this book works: CHOOSE YOUR OWN ADVENTURE
-	 * Conventions?
- . Intro (bad name) - Convincing and Why
+     * READ THIS IF YOU DONT READ ANYTHING ELSE
+	 * Choose your own Adventure
+	 * Conventions Used
+	 * Audience intended
+ . Convincing and Why
      * Why OSS in Education?
+     * Why OSS in Business?
      * Importance to students, teachers, and professionals
      * Why traditional student projects are ineffective (POSSE textbook 1.2)
  . Open Source Software Fundamentals - Defining & Teaching
      * Context - different OSS meanings (Joes Ch1)
-     * History
-     * Copyright intro
      * Proprietary vs Open
+     * Quick History
+     * Copyright intro
+     * Source 2 Binary intro
      * Societal Benefits, HFOSS
-     * Culture
+     * OSS Culture
      * Methodology (from POSSE class 1A1)
      * Communities intro
- . Open Source in...  (show landscape)
-     * Education
-     * Business - startups, enterprise
-     * Government
+     * Terminology
+ . Where Open Interaction Occurs
+     * OSS in Education
+     * OSS in Business - startups, enterprise
+     * OSS in Government
      * Non-Profit - HFOSS
      * NOTE: needs constant updating since this changes over the years
+ . History
+     * Early origins
+     * Open source boom
+     * Modern day OSS
  . Legal Aspects
      * Copyright
      * Licensing
+     * Proprietary vs Open
      * Copyleft and Permissive
+     * Why you always want a license
+     * License chooser
  . Software
      * What is Source Code?
-     * Compiling
+     * Compiled vs Interpreted
      * Binaries
      * Building
 	 * make
+ . Building the Code
+     * Compiling code by example
+     * Non-compiled languages
+     * Source 2 Binary
+     * AutoTools
+     * 'make' process
+     * java build process
  . The Open Source Way (aka Community Development)
      * (Joes Ch2)
      * "Release early, release often"
