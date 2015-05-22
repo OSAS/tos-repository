@@ -83,6 +83,21 @@ Theory, then Hands-On, then Discuss, REPEAT
      * Download / Install - Prep for Project use in stage 2
 
 === POSSE Class Stage 2
+Group work mixed with lectures to produce real student OSS activities
+
+ . Exploring and evaluating OSS Projects
+     * Introductions
+     * Actual student participation w/ HFOSS
+         ** Caribou - GNOME visual keyboard
+         ** OpenMRS - Medical Records
+         ** STEM - Virus outbreaks
+         ** Mousetrap - Head-tracking
+     * Choosing an appropriate HFOSS project for your classroom
+         ** Critical: Size, Scale, Complexity, Active Community, On-Ramping, Artifacts, Support
+         ** Secondary: Domain, Maturity, Support, Roadmap, Contribution Types, Openness, Student Friendliness, Sizzle
+     * Dev workflow and Issue Tracking
+         ** Github as version control
+         ** Issue tracker (bugs) on github (by Stoney)
 
 === Joe Original os-curriculum
 Get students into the work ASAP.

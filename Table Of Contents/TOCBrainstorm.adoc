@@ -14,57 +14,88 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
 
 [start=0]
  . Preface - 
-     * READ THIS IF YOU DONT READ ANYTHING ELSE??
-	 * How this book works: CHOOSE YOUR OWN ADVENTURE
-	 * Conventions?
- . Intro (bad name) - Convincing and Why
+     * READ THIS IF YOU DONT READ ANYTHING ELSE
+	 * Choose your own Adventure
+	 * Conventions Used
+	 * Audience intended
+ . Why teach OSS?
      * Why OSS in Education?
+     * Why OSS in Business?
      * Importance to students, teachers, and professionals
      * Why traditional student projects are ineffective (POSSE textbook 1.2)
  . Open Source Software Fundamentals - Defining & Teaching
      * Context - different OSS meanings (Joes Ch1)
-     * History
-     * Copyright intro
      * Proprietary vs Open
+     * Quick History
+     * Copyright intro
+     * Source 2 Binary intro
      * Societal Benefits, HFOSS
-     * Culture
+     * OSS Culture
      * Methodology (from POSSE class 1A1)
      * Communities intro
- . Open Source in...  (show landscape)
-     * Education
-     * Business - startups, enterprise
-     * Government
+     * Terminology
+ . Where Open Interaction Occurs
+     * OSS in Education
+     * OSS in Business - startups, enterprise
+     * OSS in Government
      * Non-Profit - HFOSS
      * NOTE: needs constant updating since this changes over the years
+ . History
+     * Early origins
+     * Open source boom
+     * Modern day OSS
  . Legal Aspects
      * Copyright
      * Licensing
+     * Proprietary vs Open
      * Copyleft and Permissive
- . Software
+     * Why you always want a license
+     * License chooser
+ . Getting the Code
+     * Git, Github, SVN
+     * Why Source Control Mgmt?
+     * Workflow
+         ** Clone / Checkout
+         ** Change Code
+         ** Committing
+         ** Pull requests
+ . Building and Running the Code
      * What is Source Code?
-     * Compiling
-     * Binaries
-     * Building
-	 * make
- . The Open Source Way (aka Community Development)
-     * (Joes Ch2)
-     * "Release early, release often"
-     * "All bugs are shallow with enough eyes""
+     * What are Binaries?
+     * Compiled vs Interpreted
+     * Compiled languages
+         ** C, C++, Go
+         ** 'make' process
+         ** AutoTools
+     * Interpreted languages
+         ** Javascript, Node.js, Python, Ruby
+     * Byte-code languages
+         ** Java, Python, Ruby
+         ** bytecode
+ . Debugging the Code
+     * About Defect tracking
+     * Good Bug Reporting
+     * Triage: Re-checking bugs
+ . The Open Source Way
+     * Communal Development & Culture
      * Open source culture (opensourceway.com)(OSEP 5-qualities)
+     * "Release early, release often"
+     * "All bugs are shallow with enough eyes"
  . Communities
      * About (POSSE class 1A6)
      * Governance types (Jim Jag, Producing OSS Ch4)
      * Qualities (POSSE class)
-     * Choosing (POSSE class 1B1)
+     * Choosing a community (POSSE class 1B1)
      * Communications
- . OSS Processes & Toolchain
+     * Roles
+ . OSS Tools & Processes
      * Maillists
      * SCM (github, svn)
      * Bug / Defect tracking
      * Wiki's
      * IRC
      * Blogs
- . OSS Workflow ???Needed???
+ . Working in an OSS Community
      * Defect
      * Troubleshoot
      * Fork, Branch
