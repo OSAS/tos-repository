@@ -1,8 +1,8 @@
-= Open Source: A Curriculum
+= Teaching Open Source Repository
 
 :toc:
 
-include::01-introduction/1-legal.asc[]
+include::05-legal_aspects/1-legal.asc[]
 include::preface.adoc[]
 
 ///////////////////////////////
@@ -13,6 +13,7 @@ include::4-legal.adoc[]
 include::5-principles.adoc[]
 include::6-practices.adoc[]
 include::7-history.adoc[]
-/////////////////////////////
 
 FIXME needs to be redone
+
+/////////////////////////////
