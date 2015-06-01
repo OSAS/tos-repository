@@ -4,7 +4,7 @@ image::images/teachersLearning.jpg[Teachers Learning]
 
 Teaching open source development, methodologies, and culture is a challenge. Finding content to teach it, is even harder. This project gathers the best-of-the-best resources, activities and examples for teaching open source in an educational environment.
 
-When exploring burgeoning subjects such as open source, teachers need to educate themselves and quickly find existing quality content for use in their classroom. This project attempts to solve that opportunity.
+When exploring burgeoning subjects such as open source, teachers need to educate themselves and quickly find existing quality content for use in their classroom. This project attempts to provide that opportunity.
 
 === What you will find most useful
   * *Key background readings* - don't dig though hundreds of search results
@@ -23,6 +23,6 @@ To clarify, this is not a curriculum in and of itself. It is expected that educa
 Because this content is gathered in asciidoc e-book format, it can be converted into multiple formats via:
 
 ----
-$ sudo yum install rubygem-asciidoctor</code>
-$ make</code>
+$ sudo yum install rubygem-asciidoctor
+$ make
 ----
