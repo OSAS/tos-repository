@@ -1,6 +1,6 @@
 == Teaching Open Source
 
-image::images/teachersLearning.jpg[Teachers Learning, 500]
+image::images/teachersLearning.jpg[Teachers Learning]
 
 Teaching open source development, methodologies, and culture is a challenge. This project gathers the best-of-the-best resources, activities and examples for teaching open source in educational environments.
 
