@@ -4,19 +4,19 @@ Advocacy
 Career
 Coding and Style
 
-Community Philosophy - (Culture and Intellectual Property, Philosophy and Politics); FOSSism'sThe Open Source Way, Communities
+Community Philosophy - (formerly: Culture and Intellectual Property, Philosophy and Politics); FOSSism's, The Open Source Way, Communities
 
-Communication - (Communication and Tools); How do communities of distributed participants communicate amongst each other? Not only what tools are used, but also processes and commonly used channels (IRC, Maillists, Wiki's)
+Communication - (formerly: Communication and Tools); How do communities of distributed participants communicate amongst each other? Not only what tools are used, but also processes and commonly used channels (IRC, Maillists, Wiki's)
 
-Legal Aspects - (Culture and Intellectual Property); Intellectual property law and copyright licensing underpinnings, and how it supports the open source effort
+Legal Aspects - (formerly: Culture and Intellectual Property); Intellectual property law and copyright licensing underpinnings, and how it supports the open source effort
 
 Documentation
 
-Pedagogy - (Education); Activities for Educators; When teachers need to learn how to apply and integrate open source into the classroom; non-student activities
+Pedagogy - (formerly: Education); Activities for Educators; When teachers need to learn how to apply and integrate open source into the classroom; non-student activities
 
-History - (FOSS History); How FOSS came to be, the context that it was born in, influential people and parties
+History - (formerly: FOSS History); How FOSS came to be, the context that it was born in, influential people and parties
 
-Open Source Software Fundamentals - (Introduction); Overview, that there is a community, what kinds of things do they do, how do the many pieces fit together
+Open Source Software Fundamentals - (formerly: Introduction); Overview, that there is a community, what kinds of things do they do, how do the many pieces fit together
 
 
 Privacy and Security
