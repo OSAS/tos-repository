@@ -3,9 +3,6 @@ OS-CURRICULUM
 Motivation - Why teach and learn OSS? The WHY for both teachers and students
 
 Open Source Software Fundamentals - Overview, that there is a community, initial copyright and licensing explanations, what kinds of things do they do, how do the many pieces fit together
- 
-
-Where Open Interaction Occurs
 
 History - How FOSS came to be, the context that it was born in, influential people and parties
 
@@ -21,7 +18,8 @@ Contributing the Code
 Communication - How do communities of distributed participants communicate amongst each other? Not only what tools are used, but also processes and commonly used channels (IRC, Maillists, Wiki's)
 
 
-
+Other:
 ??? OSS Pedagogy - Activities for Educators; When teachers need to learn how to apply and integrate open source into the classroom; non-student activities
 
-
+Enveloped or no longer included:
+Where Open Interaction Occurs
