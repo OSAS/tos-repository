@@ -1,4 +1,5 @@
 == Teaching Open Source Repository
+ifdef::env-github[:outfilesuffix: .adoc]
 
 image::images/teachersLearning.jpg[Teachers Learning]
 
