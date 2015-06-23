@@ -21,16 +21,16 @@ To clarify, this is not a curriculum in and of itself. You know your own student
 
 === Table of Contents
   * <<01-motivation/1-motivation#,Motivation>> - Why teach and learn open source software? The WHY for both teachers and students
-  * <<02-oss_fundamentals/1-fundamentals#,OSS Fundamentals>> - 
-  * <<03-legal_aspects/1-legal#,>> - 
-  * <<04-history/1-history#,>> - 
-  * <<05-tools/1-tools#,>> - 
-  * <<06-getting_the_code/1-get#,>> - 
-  * <<07-building_and_running_the_code/1-build#,>> - 
-  * <<08-debugging_the_code/1-debug#,>> - 
-  * <<09-contributing_the_code/1-contribute#,>> - 
-  * <<10-community_philosophy/1-philosophy#,>> - 
-  * <<11-communication/1-communication#,>> - 
+  * <<02-oss_fundamentals/1-fundamentals#,OSS Fundamentals>> - asd
+  * <<03-legal_aspects/1-legal#,Legal Aspects>> - asd
+  * <<04-history/1-history#,History>> - asd
+  * <<05-tools/1-tools#,Tools>> - asd
+  * <<06-getting_the_code/1-get#,Getting the Code>> - asd
+  * <<07-building_and_running_the_code/1-build#,Building and Running the Code>> - asd
+  * <<08-debugging_the_code/1-debug#,Debugging the Code>> - asd
+  * <<09-contributing_the_code/1-contribute#,Contributing the Code>> - asd
+  * <<10-community_philosophy/1-philosophy#,Community Philosophy>> - asd
+  * <<11-communication/1-communication#,Communication>> - asd
 
 
 == Installation
