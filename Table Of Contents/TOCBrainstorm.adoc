@@ -23,6 +23,7 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
      * Why OSS in Business?
      * Importance to students, teachers, and professionals
      * Why traditional student projects are ineffective (POSSE textbook 1.2)
+     * Hint at Collaboration
  . Open Source Software Fundamentals - Defining & Teaching
      * Context - different OSS meanings (Joes Ch1)
      * Proprietary vs Open
@@ -72,6 +73,7 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
      * Byte-code languages
          ** Java, Python, Ruby
          ** bytecode
+     * Building a "Book" via open source (non-majors)
  . Debugging the Code
      * About Defect tracking
      * Good Bug Reporting
@@ -116,3 +118,12 @@ Should it even be CURRICULUM?, which refers to whole years of study mapped out. 
  * Consider Jim Jagielski's Governance document (OSAS home.corp)
 
  * Blogging - How essentual is this? Asks OSAS list...
+
+ * Emphasizing Collaboration
+   * Using github and google docs etc to track work on a project
+   * Weekly self-reported status report to professor - what did student do and where is the proof
+   * Group grading at end of project - everyone grades eachother and themselves, so that no one gets by with doing less work
+   * Weave into open source way and communities sections?? Rename as Collaboration?
+ * Leadership - pick a leader of the group, so as to organize it and give real world work
+
+ * How to bring this to the classroom section within each Topic
