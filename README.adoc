@@ -19,7 +19,7 @@ Much of the content around what open source is and how it is done, already exist
 To clarify, this is not a curriculum in and of itself. You know your own students and what will work for them best, so you should feel free to pick and choose from these materials as you see fit to create a curriculum that suits your needs.
 
 === Table of Contents
-  * <<01-motivation/1-motivation.adoc#,Motivation>> - Why teach and learn open source software? The WHY for both teachers and students
+  * <<01-motivation/1-motivation.adoc,Motivation>> - Why teach and learn open source software? The WHY for both teachers and students
 
 
 == Installation
