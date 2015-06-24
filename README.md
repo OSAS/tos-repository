@@ -34,18 +34,6 @@ To clarify, this is not a curriculum in and of itself. You know your own student
 | [Community Philosophy](10-community_philosophy/1-philosophy.adoc)                 | asd                                                                                 |
 | [Communication](11-communication/1-communication.adoc)                 | asd                                                                                 |
 
-  - [Motivation](01-motivation/1-motivation.adoc) - Why teach and learn open source software? The WHY for both teachers and students
-  - [OSS Fundamentals](02-oss_fundamentals/1-fundamentals.adoc) - Overview, that there is a community, initial copyright and licensing explanations, what kinds of things do they do, how do the many pieces fit together
-  - [Legal Aspects](03-legal_aspects/1-legal.adoc) - Intellectual property law and copyright licensing underpinnings, and how it supports the open source effort
-  - [History](04-history/1-history.adoc) - How FOSS came to be, the context that it was born in, influential people and parties
-  - [Tools](05-tools/1-tools.adoc) - asd
-  - [Getting the Code](06-getting_the_code/1-get.adoc) - asd
-  - [Building and Running the Code](07-building_and_running_the_code/1-build.adoc) - asd
-  - [Debugging the Code](08-debugging_the_code/1-debug.adoc) - asd
-  - [Contributing the Code](09-contributing_the_code/1-contribute.adoc) - asd
-  - [Community Philosophy](10-community_philosophy/1-philosophy.adoc) - asd
-  - [Communication](11-communication/1-communication.adoc) - asd
-
 ## Installation
 
 Because this content is gathered in asciidoc e-book format, it can be converted into multiple formats via:
