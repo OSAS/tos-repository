@@ -74,13 +74,15 @@ Other Links::
 See module 3
 
 License Determination Exercise::
-* Give students a set of 5 open source projects and have them determine what licenses they use.
-** ... allow the entire actual exercise to be written out here, including the 5 example projects used
+* http://foss2serve.org/index.php/Finding_the_license -- In this exercise students will review several pieces of software and find the licensing information.
 
 Ethics workshop::
 * What are some of the benefits and challenges of unpaid, freely licensed works?
 ** http://opensourceforamerica.org/learn-more/benefits-of-open-source-software/
 ** http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
+
+Choosing a license::
+* http://foss2serve.org/index.php/Choosing_A_License -- In this exercise students will choose a license for a hypothetical software project based on criteria given
 
 === Teaching Notes:
 Here's where we can point out the parts we'd emphasize; analogies that work, etc. etc.
