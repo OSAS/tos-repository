@@ -17,11 +17,14 @@ A good backgrounder for instructors on the legal framework for open source is ht
 toc::[]
 
 === Prerequisite Knowledge:
+Here we list what specific information students should know or skills they should have before you teach this module.
+
  * Assumes student understands the term "open source."  
  * Assumes student knows the context of "software code"
  * Assumes ...
 
 === Learning objectives:
+Here we list the key learning objectives that students should understand at the end.
 
 Students understand:
 
@@ -38,10 +41,13 @@ Students understand:
  * open licensing for non-code works (documentation, images)
 
 === Instructional tools:
+Here we list any tools or demos that you might use to illustrate concepts that pertain to this topic.
+
  * Choose-a-license game ...
  * Whatever whatever
 
 === Readings & Resources:
+This is a "refereed" short-list of the most pertinent and relevant learning resources for this topic.
 
 Open Source Licensing text-book::
   * http://www.rosenlaw.com/oslbook.htm
@@ -72,6 +78,7 @@ Other Links::
 * https://fsfe.org/freesoftware/basics/comparison.en.html
 
 === Learning Activities:
+This section includes curated links to in-class and out-of-class assignments, projects, and active learning methods that a teacher might use in their classroom.
 
 License Determination Exercise::
 * http://foss2serve.org/index.php/Finding_the_license -- In this exercise students will review several pieces of software and find the licensing information.
@@ -85,9 +92,12 @@ Choosing a license::
 * http://foss2serve.org/index.php/Choosing_A_License -- In this exercise students will choose a license for a hypothetical software project based on criteria given
 
 === Teaching Notes:
-Here's where we can point out the parts we'd emphasize; analogies that work, etc. etc.
+Additional notes (perhaps from other teachers) on what has worked/not worked in teaching these concepts.
+One might want to point out the parts needing emphasis; analogies that work, etc. etc.
 
 === Assessment of student learning:
+How do you measure what the student has learned?
+
 This is a sample rubric - not much thought has gone into it.
 
 image::images/rubricExample.png[Rubric Example]

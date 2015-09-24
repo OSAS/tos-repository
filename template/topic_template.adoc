@@ -16,14 +16,14 @@ A good backgrounder for instructors on [this topic] is [insert reference], for a
 toc::[]
 
 === Prerequisite Knowledge:
-Here we would list what specific information students should know or skills they should have before you teach this module.
+Here we list what specific information students should know or skills they should have before you teach this module.
 
 * Assumption 1
 * Assumption 2
 * etc.
 
 === Learning objectives:
-Here we will list the key learning objectives that students should understand at the end.  Where appropriate we will distinguish between beginner, intermediate and advanced levels and/or coding- vs. culture-focused classes.
+Here we list the key learning objectives that students should understand at the end.  Where appropriate we will distinguish between beginner, intermediate and advanced levels and/or coding- vs. culture-focused classes.
 
 * learning objective 1 (level)
 * learning objective 2 (level)
@@ -31,7 +31,7 @@ Here we will list the key learning objectives that students should understand at
 * etc.
 
 === Instructional tools:
-Here we will list any tools or demos that you might use to illustrate concepts that pertain to this topic.
+Here we list any tools or demos that you might use to illustrate concepts that pertain to this topic.
 These may include games, videos, simulations, and other multimedia that might help teach this topic.
 
 === Readings & Resources:
@@ -62,7 +62,7 @@ B. For classes not participating in an open source project, here are some exerci
 
 === Teaching Notes:
 Additional notes (perhaps from other teachers) on what has worked/not worked in teaching these concepts.
-One might want to point out the parts we'd emphasize; analogies that work, etc. etc.
+One might want to point out the parts needing emphasis; analogies that work, etc. etc.
 
 === Assessment of student learning:
 How do you measure what the student has learned?
