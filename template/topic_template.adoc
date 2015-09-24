@@ -67,3 +67,9 @@ One might want to point out the parts we'd emphasize; analogies that work, etc. 
 === Assessment of student learning:
 How do you measure what the student has learned?
 There should be clear mastery criteria defined for each learning objective defined above.
+
+=== Additional Information:
+
+Author(s):: Names of those who have added or edited content
+Source:: Did this come from anywhere else?
+License:: License for material
