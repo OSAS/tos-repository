@@ -5,6 +5,7 @@ This is an example topic, filled out with the beginnings of some content.
 ____
 
 == Legal Frameworks for Open Source
+=== Overview:
 Understanding the differences of proprietary and open source licenses is fundamental to students 
 grasping the holistic benefits of open source software. Students need to understand open source
 licenses, how they work, and the effects they have on the wider technical ecosystem.
@@ -15,16 +16,12 @@ A good backgrounder for instructors on the legal framework for open source is ht
 :toc: macro
 toc::[]
 
-=== Prior knowledge assumed:
+=== Prerequisite Knowledge:
  * Assumes student understands the term "open source."  
  * Assumes student knows the context of "software code"
  * Assumes ...
 
-=== Instructional tools:
- * Choose-a-license game ...
- * Whatever whatever
-
-=== Key learning objectives:
+=== Learning objectives:
 
 Students understand:
 
@@ -40,24 +37,28 @@ Students understand:
  * how to review software for licensing issues
  * open licensing for non-code works (documentation, images)
 
+=== Instructional tools:
+ * Choose-a-license game ...
+ * Whatever whatever
+
 === Readings & Resources:
 
-. Open Source Licensing text-book::
+Open Source Licensing text-book::
   * http://www.rosenlaw.com/oslbook.htm
   * legal, licenses, GPL, MPL, standards
   * This [pp long] textbook has chapters on Freedom and Open Source, Intellectual Property, Distribution of Software, Taxonomy of Licenses, Academic Licenses, Reciprocity and the GPL, The Mozilla Public License (MPL), The Common Public License (CPL), The OSL and the AFL, Choosing an Open Source License, Shared Source, Eventual Source, and Other Licensing Models, Open Source Litigation,and Open Standards.  Probably more suitable for an examination of the legal structure than a practical guide.
 
-. Open Source Licensing Slideshow - from NCSU
+Open Source Licensing Slideshow - from NCSU::
   * https://www.ncsu.edu/general_counsel/legal_topics/documents/OpenSourceLicensingPowerPointPresentation.ppt
   * legal, licenses, open source, summary, slides
   * This 90 slide overview is an overview of the above Rosen book. It tackles Intellectual Property, open source, licensing types, and software definitions
 
-. Choose-a-license license cheatsheet::
+Choose-a-license license cheatsheet::
   * http://choosealicense.com/licenses/
   * legal, licenses
   * A simplified approach to choosing a license that focuses on ...  This might be useful as a reference for students who...
 
-. Creative Commons mini-course::
+Creative Commons mini-course::
   * https://p2pu.org/en/groups/get-cc-savvy/
   * legal, licenses, cc, videos, quizes, non-code, documentation
   * An online learning course (currently read-only) devoted to understanding the Creative Commons model. Includes several videos as well as questions that could be repurposed.
@@ -70,8 +71,7 @@ Other Links::
 * http://www.palamida.com/news/webinars/introduction-to-foss-licensing.html
 * https://fsfe.org/freesoftware/basics/comparison.en.html
 
-=== Community Interaction or Exercises:
-See module 3
+=== Learning Activities:
 
 License Determination Exercise::
 * http://foss2serve.org/index.php/Finding_the_license -- In this exercise students will review several pieces of software and find the licensing information.
@@ -87,7 +87,13 @@ Choosing a license::
 === Teaching Notes:
 Here's where we can point out the parts we'd emphasize; analogies that work, etc. etc.
 
-=== Rubrics:
+=== Assessment of student learning:
 This is a sample rubric - not much thought has gone into it.
 
 image::images/rubricExample.png[Rubric Example]
+
+=== Additional Information:
+
+Author(s):: Gina Likins, Nick Yeates
+Source:: N/A
+License:: CC BY-SA 4.0
