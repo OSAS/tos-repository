@@ -2,7 +2,8 @@ ____
 PURPOSE of this particular document:
 
 This document is to be used as a starting template for any new topics / categories needed to teach about open source software and open source development methods.
-This top piece should be erased when starting a new topic.
+
+This top piece of text should be erased when starting a new topic.
 ____
 
 == Title / The name of the topic being covered
