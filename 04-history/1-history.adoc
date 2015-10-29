@@ -1,17 +1,5 @@
-____
-PURPOSE of this particular document:
-
- * Structure
- * Inclusion
-
-Do we have the right content structure for aspiring teachers of open source to succeed?
-As a teacher, would you need any other information? Is this a good structure for the rest of our content?
-
-All of the text inside each section will be replaced for the many open source topics out there.
-____
-
-== Teaching Open Source:  Topic Template
-This introductory section briefly explains why students need to understand this particular topic -- 1 to 3 sentences.
+== FOSS History
+Starting from before Richard Stallman where for years code defaulted to open, and into the 1980's when code defaulted to closed, and into the 1990's and today when open source found a re-growth and success, it is important to understand historical context. In order to gain a full picture of what free and open source software provides, students need a review of why it came about and a chronology of the major events that unfolded.
 
 A good backgrounder for instructors on [this topic] is [insert reference], for a deeper understanding see Readings & Resources below.
 
