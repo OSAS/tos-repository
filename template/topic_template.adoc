@@ -35,7 +35,7 @@ Here we list any tools or demos that you might use to illustrate concepts that p
 These may include games, videos, simulations, and other multimedia that might help teach this topic.
 
 === Readings & Resources:
-This is a "refereed" short-list of the most pertinent and relevant learning resources for this topic.
+This is a curated list of the most pertinent and relevant learning resources for this topic.
 Ex: Links to articles, blog posts, research, or traditional text books.
 
 These links will be curated and constantly updated
@@ -68,8 +68,13 @@ One might want to point out the parts needing emphasis; analogies that work, etc
 How do you measure what the student has learned?
 There should be clear mastery criteria defined for each learning objective defined above.
 
-=== Additional Information:
+=== ACM Knowlege Area/Knowledge Unit:
+What ACM Computing Curricula 2013 knowledge area and units does this activity cover? (http://foss2serve.org/index.php/ACM_Body_of_Knowledge)
 
+=== ACM Topic:
+What specific topics are addressed? The Computing Curriucula 2013 provides a list of topics - https://www.acm.org/education/CS2013-final-report.pdf
+
+=== Additional Information  
 Author(s):: Names of those who have added or edited content
 Source:: Did this come from anywhere else?
 License:: License for material
