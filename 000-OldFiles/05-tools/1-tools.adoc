@@ -1,0 +1,87 @@
+____
+PURPOSE of this particular document:
+
+ * Structure
+ * Inclusion
+
+Do we have the right content structure for aspiring teachers of open source to succeed?
+As a teacher, would you need any other information? Is this a good structure for the rest of our content?
+
+All of the text inside each section will be replaced for the many open source topics out there.
+____
+
+== Teaching Open Source:  Topic Template
+This introductory section briefly explains why students need to understand this particular topic -- 1 to 3 sentences.
+
+A good backgrounder for instructors on [this topic] is [insert reference], for a deeper understanding see Readings & Resources below.
+
+:toc: macro
+toc::[]
+
+=== Prior knowledge assumed:
+Here we would list what specific information students should know or skills they should have before you teach this module.
+
+* Assumption 1
+* Assumption 2
+* etc.
+
+=== Instructional tools:
+Here we will list any tools or demos that you might use to illustrate concepts that pertain to this topic.
+These may include videos, simulations, games, etc.
+
+We'll research these but may also need to reach out to instructors to round up ones you know about.
+
+=== Key learning objectives:
+Here we will list the key learning objectives for this topic.  Where appropriate we will distinguish between beginner, intermediate and advanced levels and/or coding- vs. culture-focused classes.
+
+* learning objective 1 (level)
+* learning objective 2 (level)
+* learning objective 3 (level, culture)
+* etc.
+
+This is a part where we'll need to reach out to instructors to help determine good learning objectives.
+
+=== Readings & Resources:
+This is a list of all the pertinent, relevant learning resources for this topic. 
+Ex: Links to web content, research or traditional text books.
+
+These links will be curated and constantly updated by Red Hat
+
+.Each resource should have:
+* a name
+* link
+* topics / tags (from a curated list), including whether it's better for basic or advanced students and whether it's practical or theory-based
+* description of content that explains when the resource in question would be useful
+
+=== Community Interaction or Exercises:
+We see this being two sections:  if your class is participating in an open source project (which we hope everyone is, of course), then you do A.  If not (if, for instance, a regular prof teaching a regular class finds this content and wants to use it in his course), they do B.
+
+A. For classes participating in an open source project:  see module 3 [[all of these need to be built -- this is the framework part of interacting with an open source community]].  Module 3 would be about Topic 1.
+B. For classes not participating in an open source project, here are some exercises you might do to reinforce this topic:
+
+.Exercise 1:
+* Description of Exercise
+* Intended Result
+* etc.
+
+Will definitely need help here -- will borrow as much from POSSE and RIT as possible
+
+=== Teaching Notes:
+Here's where we can point out the parts we'd emphasize; analogies that work, etc. etc.  
+
+=== Rubrics:
+There should be clear mastery criteria defined for each learning objective defined above.
+
+
+
+=== To do:
+Anything in this section are thoughts that need to be enveloped. They have not been brought in yet. It is a holding place.
+
+## Identify some possible learning outcomes that should be fulfilled with the activities/task.
+## Describe any pre-requisite knowledge needed to complete the activity. This does not need to be a complete list. 
+## Estimate the time required for instructor prep, for student completion and elapsed calendar time. Are you going to have to  synchronize your activity with the community or can the activity/topic  be covered independent of the HFOSS community schedule. 
+## Think about possible input required from the HFOSS community. How much input is required and what kind?
+## If the result of the activity is contributed back to the HFOSS project, describe the contribution and its usefulness.
+## Describe the assessment/grading approach - What  will the basis for grading be? Will this be a team activity or  individual? Is there a role for the HFOSS community in helping assess   student work? For instance, must the work be committed or otherwise accepted by the community? 
+## List any questions or concerns that you have about the activity/task. 
+## List any stumbling blocks or barriers to carrying out the activity/task.
