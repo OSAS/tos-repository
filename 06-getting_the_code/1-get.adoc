@@ -1,1 +1,0 @@
-https://en.wikipedia.org/wiki/Interpreted_language - Explains the difference between Interpreted and Compiled code, and gives example languages for both.
