@@ -1,14 +1,6 @@
-____
-PURPOSE of this particular document:
-
-This document is to be used as a starting template for any new topics / categories needed to teach about open source software and open source development methods.
-
-This top piece of text should be erased when starting a new topic.
-____
-
-== Title / The name of the topic being covered
+== FOSS Business Models
 === Overview:
-This introductory section briefly explains what is being covered and why students need to understand this particular topic -- 1 to 3 sentences.
+Understanding the successful business models in the FOSS community will allow students some ground from which to build there own businesses and projects. Knowing why the FOSS business model can make so much money but remain true to the ideals of the community will give insight on where to start for new projects and up and coming businesses. As the community continues to move forward more businesses will adopt FOSS models and having a string understanding of how these work will allow students and professionals to contribute to their growth.
 
 A good backgrounder for instructors on [this topic] is [insert reference], for a deeper understanding see Readings & Resources below.
 

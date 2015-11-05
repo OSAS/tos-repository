@@ -1,14 +1,6 @@
-____
-PURPOSE of this particular document:
-
-This document is to be used as a starting template for any new topics / categories needed to teach about open source software and open source development methods.
-
-This top piece of text should be erased when starting a new topic.
-____
-
-== Title / The name of the topic being covered
+== FOSS Market Drivers
 === Overview:
-This introductory section briefly explains what is being covered and why students need to understand this particular topic -- 1 to 3 sentences.
+Understanding how the software market evolved is important to new students and new graduates, as it allows them to understand why this model has succeeded, and how to predict where the market is going. Understanding trends in FOSS technologies will better help students keep up with the market and continue to drive it forward.
 
 A good backgrounder for instructors on [this topic] is [insert reference], for a deeper understanding see Readings & Resources below.
 
