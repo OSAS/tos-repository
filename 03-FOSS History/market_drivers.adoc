@@ -1,14 +1,6 @@
-____
-PURPOSE of this particular document:
-
-This document is to be used as a starting template for any new topics / categories needed to teach about open source software and open source development methods.
-
-This top piece of text should be erased when starting a new topic.
-____
-
-== Title / The name of the topic being covered
+== FOSS Market Drivers
 === Overview:
-This introductory section briefly explains what is being covered and why students need to understand this particular topic -- 1 to 3 sentences.
+Understanding how the software market evolved is important to new students and new graduates, as it allows them to understand why this model has succeeded, and how to predict where the market is going. Understanding trends in FOSS technologies will better help students keep up with the market and continue to drive it forward.
 
 A good backgrounder for instructors on [this topic] is [insert reference], for a deeper understanding see Readings & Resources below.
 
@@ -45,6 +37,11 @@ These links will be curated and constantly updated
 * Link or reference information
 * Topics / tags (from a curated list), including whether it's better for basic or advanced students and whether it's practical or theory-based
 * Description of content that explains when the resource in question would be useful
+
+Open Source: Now its an Ecosystem
+* http://www.bloomberg.com/bw/stories/2005-10-02/open-source-now-its-an-ecosystem
+* TAGS
+* Article from 2005 that present market trends and expectations at the time. Good to use as a comparison to today's market, 10 years later.
 
 === Learning Activities:
 This section includes curated links to in-class and out-of-class assignments, projects, and active learning methods that a teacher might use in their classroom.
