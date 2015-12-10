@@ -38,10 +38,26 @@ These links will be curated and constantly updated
 * Topics / tags (from a curated list), including whether it's better for basic or advanced students and whether it's practical or theory-based
 * Description of content that explains when the resource in question would be useful
 
-Open Source: Now its an Ecosystem
+.Open Source: Now its an Ecosystem
 * http://www.bloomberg.com/bw/stories/2005-10-02/open-source-now-its-an-ecosystem
 * TAGS
 * Article from 2005 that present market trends and expectations at the time. Good to use as a comparison to today's market, 10 years later.
+
+.Future of Open Source Survey Results
+* https://opensource.com/business/13/4/open-source-2013-survey  && https://www.blackducksoftware.com/news/releases/seventh-annual-future-open-source-survey-results-show-culture-quality-and-growth
+* TAGS
+* These articles discuss the results of a survery sent to current open source companies that is used to calculate the trends and future of the open source market. 
+
+.Open Source Drives Software Innovation
+* http://mjskok.com/resource/open-source-drives-software-innovation
+* TAGS
+* Articles discussing the results from the 2011 Future of Open Source Survey. Suggests that the largest impact by OSS would be in the mobile market. Good to use as a comparative reference to what actually happened since 2011.
+
+.What Makes a Virtual Organization Work
+* http://sloanreview.mit.edu/article/what-makes-a-virtual-organization-work-lessons-from-the-opensource-world/
+* TAGS
+* Good article from MIT Sloan that analyzes the social and economic aspects that helped the open source market come to fruition. Links to many other good resources and information.
+ 
 
 === Learning Activities:
 This section includes curated links to in-class and out-of-class assignments, projects, and active learning methods that a teacher might use in their classroom.

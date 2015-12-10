@@ -38,100 +38,115 @@ These links will be curated and constantly updated
 * Topics / tags (from a curated list), including whether it's better for basic or advanced students and whether it's practical or theory-based
 * Description of content that explains when the resource in question would be useful
 
-MySQL CEO on 2 Open Source Business Models 
+.MySQL CEO on 2 Open Source Business Models 
 * http://www.heavybit.com/library/video/2013-10-15-marten-mickos
 * TAGS
 * Marten Mickos discusses the models he has been a part of in his role as CEO of MySQL AB, and Eucalyptus Systems.
 
-Yochai Benkler: The new open-source economics 
+.Yochai Benkler: The new open-source economics 
 * http://www.ted.com/talks/yochai_benkler_on_the_new_open_source_economics#t-1017160
 * TAGS
 * Brief discussion on the success of open source projects, businesses, and foundations through the efforts of collaborative communities.
 
-OS Business Models:Making Money by Giving it Away 
+.OS Business Models:Making Money by Giving it Away 
 * http://events.linuxfoundation.org/sites/events/files/slides/lfcs15_hall.pdf
 * TAGS 
 * Slides from a talk at the Linux Collaboration Summit by Andrew Hall. Basic Overview of the major open source business models and profit gathering methods.
 
-OSS Business Models that Create Value 
+.OSS Business Models that Create Value 
 * http://www.aabri.com/manuscripts/152159.pdf
 * TAGS
 * Journal article from the Journal of Management and Marketing Research on 22 OSS revenue models. These models include main business plans and side events and methods of producing revenue.
 
-Apache Sponsorship Page 
+.Apache Sponsorship Page 
 * http://www.apache.org/foundation/sponsorship.html
 * TAGS
 * THe information page on Apache's sponsorship program, where individuals or groups can contribute yearly to Apache. Represents an important revenue model for open source projects.
 
-Running a Tech Conference
+.Running a Tech Conference
 * http://blog.pluralsight.com/running-a-tech-conference
 * TAGS
 * While not directly about FOSS business models, tech conferences can produce a great deal of revenue for open source group, foundations, or companies. This is a simple blog post detailing the basics of running a successful conference.
 
-How Companies Make Money Through Involvement in Open Source Hardware Projects
+.How Companies Make Money Through Involvement in Open Source Hardware Projects
 * http://timreview.ca/article/228
 * TAGS
 * While not specifically about OSS, this article discusses differences in OSS and OSH projects and companies. In addition, it gives a great viewpoint on the move away from companies that design to communities that design, and companies that deliver final products.
 
-FOSS Business and Sustainability Models
+.FOSS Business and Sustainability Models
 * http://oss-watch.ac.uk/resources/businessandsustainability
 * TAGS
 * Article from OSS-Watch discussing FOSS models and benefits to businesses that use free or open source software.
 
-The Business of Open Source
+.The Business of Open Source
 * http://oss-watch.ac.uk/resources/businessofopensource  
 * TAGS
 * Article from OSS-Watch that differentiates open source development from business models, arguing that 'open source' is not a business model. Discusses business models and revenue options.
 
-Business and Sustainability Models Around FOSS
+.Business and Sustainability Models Around FOSS
 * http://oss-watch.ac.uk/resources/businessworkshop09
 * TAGS
 * Article from OSS-Watch covering the OSS Watch Business and Sustainability Models workshop 2009. Discusses FOSS fundamentals, culture, and business practices.
 
-Dual-licensing as a Business Model
+.Dual-licensing as a Business Model
 * http://oss-watch.ac.uk/resources/duallicence2
 * TAGS
 * Article from OSS-Watch discussing one of the more notable FOSS business models: dual- licensing. References MySQL primarily, as it is the most successful open source company using this model.
 
-Sustainable Open Source
+.Sustainable Open Source
 * http://oss-watch.ac.uk/resources/sustainableopensource
 * TAGS
 * Article from OSS-Watch discussing getting a FOSS project to a sustainable level and maintaining it there. 
 
-The Community Source Development Model
+.The Community Source Development Model
 * http://oss-watch.ac.uk/resources/communitysource
 * TAGS
 * Article from OSS-Watch on an arguably failed business model in the FOSS world. It is important to see all of the successes and failures in the market.
 
-Why There Will Never Be Another Red Hat
+.Why There Will Never Be Another Red Hat
 * http://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/
 * TAGS
 * Article analyzing the successes and failures of Red Hat and how the market has shifted to not allow new companies with this model.
 
-Free's a crowd-funding
+.Free's a crowd-funding
 * http://www.h-online.com/open/features/Free-s-a-crowd-funding-1847399.html
 * TAGS
 * Discusses successes and strategies in crowd-funding production models.
 
-Business Models
+.Business Models
 * http://www.law.washington.edu/lta/swp/Institutions/businessmodels.html
 * TAGS
 * Brief scholarly article comparing proprietary and open source business models.
 
-Open Source Business Models & Other Articles
+.Open Source Business Models & Other Articles
 * http://drkarlpopp.com/OpenSourceBusinessModels.html#.Vl6LkZNVK1E
 * TAGS
 * A few good articles on software business, OSS business models and revenue models. As well as other articles and videos.
 
-Wikipedia on Business Models for OSS
+.Wikipedia on Business Models for OSS
 * https://en.wikipedia.org/wiki/Business_models_for_open-source_software
 * TAGS
 * Wikipedia is always a good place to look for open source information!
 
-Selling Free Software
+.Selling Free Software
 * https://www.gnu.org/philosophy/selling.html
 * TAGS
 * The GNU/FSF belief and ethics on selling free software and selling other licensed software.
+
+.Why Companies Should Have Open Business Models
+* http://sloanreview.mit.edu/article/why-companies-should-have-open-business-models/
+* TAGS
+* Using examples like IBM and P&G, this article from MIT discusses the growth of open business models due to the mass growth of innovation capable.
+
+.Challenges of Open Innovation
+* http://www.joelwest.org/Papers/WestGallagher2006a.pdf
+* TAGS
+* A complex paper from the College of Business at James Madison University. Covers topics from psychological to economic factors for the growth of the open source movement and business models.
+
+Entry Strategies Under Competing Standards: Hybrid Business Models in the OSS Industry
+* http://pubsonline.informs.org/doi/pdf/10.1287/mnsc.1060.0547
+* TAGS
+* Academic paper on the emerging business models of open source operating systems and their success.
 
 
 
